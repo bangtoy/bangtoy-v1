@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bangtoy-v1/static/css/main.85c513e1.chunk.css",
+    "main.js": "/bangtoy-v1/static/js/main.45fd5dae.chunk.js",
+    "main.js.map": "/bangtoy-v1/static/js/main.45fd5dae.chunk.js.map",
+    "runtime-main.js": "/bangtoy-v1/static/js/runtime-main.b3028167.js",
+    "runtime-main.js.map": "/bangtoy-v1/static/js/runtime-main.b3028167.js.map",
+    "static/js/2.ccfe1cf9.chunk.js": "/bangtoy-v1/static/js/2.ccfe1cf9.chunk.js",
+    "static/js/2.ccfe1cf9.chunk.js.map": "/bangtoy-v1/static/js/2.ccfe1cf9.chunk.js.map",
+    "static/js/3.37b97641.chunk.js": "/bangtoy-v1/static/js/3.37b97641.chunk.js",
+    "static/js/3.37b97641.chunk.js.map": "/bangtoy-v1/static/js/3.37b97641.chunk.js.map",
+    "index.html": "/bangtoy-v1/index.html",
+    "static/css/main.85c513e1.chunk.css.map": "/bangtoy-v1/static/css/main.85c513e1.chunk.css.map",
+    "static/js/2.ccfe1cf9.chunk.js.LICENSE.txt": "/bangtoy-v1/static/js/2.ccfe1cf9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3028167.js",
+    "static/js/2.ccfe1cf9.chunk.js",
+    "static/css/main.85c513e1.chunk.css",
+    "static/js/main.45fd5dae.chunk.js"
+  ]
+}
