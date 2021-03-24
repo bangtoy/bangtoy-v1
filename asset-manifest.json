@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/bangtoy-v1/static/css/main.e2d41314.chunk.css",
-    "main.js": "/bangtoy-v1/static/js/main.341be746.chunk.js",
-    "main.js.map": "/bangtoy-v1/static/js/main.341be746.chunk.js.map",
+    "main.js": "/bangtoy-v1/static/js/main.4bc10b2c.chunk.js",
+    "main.js.map": "/bangtoy-v1/static/js/main.4bc10b2c.chunk.js.map",
     "runtime-main.js": "/bangtoy-v1/static/js/runtime-main.b3028167.js",
     "runtime-main.js.map": "/bangtoy-v1/static/js/runtime-main.b3028167.js.map",
-    "static/js/2.739a4ab6.chunk.js": "/bangtoy-v1/static/js/2.739a4ab6.chunk.js",
-    "static/js/2.739a4ab6.chunk.js.map": "/bangtoy-v1/static/js/2.739a4ab6.chunk.js.map",
+    "static/js/2.293d11aa.chunk.js": "/bangtoy-v1/static/js/2.293d11aa.chunk.js",
+    "static/js/2.293d11aa.chunk.js.map": "/bangtoy-v1/static/js/2.293d11aa.chunk.js.map",
     "static/js/3.37b97641.chunk.js": "/bangtoy-v1/static/js/3.37b97641.chunk.js",
     "static/js/3.37b97641.chunk.js.map": "/bangtoy-v1/static/js/3.37b97641.chunk.js.map",
     "index.html": "/bangtoy-v1/index.html",
     "static/css/main.e2d41314.chunk.css.map": "/bangtoy-v1/static/css/main.e2d41314.chunk.css.map",
-    "static/js/2.739a4ab6.chunk.js.LICENSE.txt": "/bangtoy-v1/static/js/2.739a4ab6.chunk.js.LICENSE.txt",
+    "static/js/2.293d11aa.chunk.js.LICENSE.txt": "/bangtoy-v1/static/js/2.293d11aa.chunk.js.LICENSE.txt",
     "static/media/cat.4566d550.jpg": "/bangtoy-v1/static/media/cat.4566d550.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3028167.js",
-    "static/js/2.739a4ab6.chunk.js",
+    "static/js/2.293d11aa.chunk.js",
     "static/css/main.e2d41314.chunk.css",
-    "static/js/main.341be746.chunk.js"
+    "static/js/main.4bc10b2c.chunk.js"
   ]
 }
