@@ -1,8 +1,11 @@
 import React, { useRef, useEffect } from 'react';
 import './App.scss';
 import cat from './images/cat.jpg';
+import { gsap } from "gsap";
 import CSSRulePlugin from "gsap/CSSRulePlugin"
 import { TimelineLite, Power2 } from 'gsap';
+
+gsap.registerPlugin(CSSRulePlugin);
 
 function App() {
     let container = useRef(null)
